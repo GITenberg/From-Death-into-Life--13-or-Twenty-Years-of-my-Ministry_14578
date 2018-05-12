@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5578'
     url: http://www.gutenberg.org/2009/agents/5578
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14578#From-Death-into-Life--13-or-Twenty-Years-of-my-Ministry
 gutenberg_issued: '2005-01-03'
 gutenberg_type: Text
 identifiers:
